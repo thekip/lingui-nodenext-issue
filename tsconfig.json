@@ -4,10 +4,8 @@
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "noEmit": true,
+    "strict": true
   },
-  "files": [
-    "index.ts"
-  ],
   "exclude": [
     "node_modules"
   ]
