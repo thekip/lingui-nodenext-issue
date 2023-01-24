@@ -1,0 +1,14 @@
+{
+  "name": "typescript-nodenext-resolution",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "tsc"
+  },
+  "dependencies": {
+    "@lingui/core": "^3.16.1"
+  },
+  "devDependencies": {
+    "typescript": "4.7.4"
+  }
+}
+
